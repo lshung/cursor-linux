@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cursor
+Exec=@@command_file@@
+Icon=@@icon_file@@
+Terminal=false
+Categories=Development;IDE;TextEditor;
+Comment=A cutting-edge code editor with AI enhancements
+StartupWMClass=Cursor
